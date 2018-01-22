@@ -12,7 +12,7 @@ categories = [
 
 ![Skywire logo](/img/skywire-the-next-internet.png)
 
-Au printemps 2017, le FCC1 a déposé une proposition de loi selon laquelle les fournisseurs de service internet peuvent collecter, utiliser et vendre les informations concernant les habitudes de navigation de leurs clients. Ils peuvent le faire sans autorisation spécifique. Les clients ne peuvent refuser. Etre client de l’une de ces sociétés signifie que vous payez pour être surveillé, tout simplement.
+Au printemps 2017, le FCC [^1] a déposé une proposition de loi selon laquelle les fournisseurs de service internet peuvent collecter, utiliser et vendre les informations concernant les habitudes de navigation de leurs clients. Ils peuvent le faire sans autorisation spécifique. Les clients ne peuvent refuser. Etre client de l’une de ces sociétés signifie que vous payez pour être surveillé, tout simplement.
 
 Surveillance des clients, couverture médiocre, prix élevés, long temps d’attente et service utilisateur déficient, les fournisseurs de service internet font parti des entreprises les plus détestées aux Etats-Unis. Pourquoi alors les clients doivent-ils payer ces entreprises pour avoir le privilège d’être surveillé ?
 
@@ -24,10 +24,14 @@ Comment ça fonctionne ? Il faut imaginer un fournisseur de service Internet d�
 
 Avec Skywire, vous bénéficiez directement de votre contribution au réseau. Les utilisateurs gagnent des skycoins pour maintenir des nœuds et fournir de la bande passante ainsi que de l’espace de stockage. On peut dépenser ses skycoins en consommant de l’information ou d’autres ressources du réseau. Ce système rend SkyWire autonome et indépendant : plus on l’utilise, plus le réseau devient robuste. Skywire est un réseau pair à pair rémunéré. 
 
-Skywire est conçu pour les utilisateurs, par les utilisateurs. Contrairement aux services des fournisseurs classiques, les décisions sont prises par la communauté. Les nœuds fonctionnent selon un système de réseau de confiance2. Les nœuds malhonnêtes peuvent être retirés par une décision collective, et les nœuds de confiance en sortent renforcés. Le réseau de confiance rend Skywire difficile à attaquer, à manipuler et à exploiter. Il crée un système dans lequel chacun a son mot à dire.
+Skywire est conçu pour les utilisateurs, par les utilisateurs. Contrairement aux services des fournisseurs classiques, les décisions sont prises par la communauté. Les nœuds fonctionnent selon un système de réseau de confiance[^2] . Les nœuds malhonnêtes peuvent être retirés par une décision collective, et les nœuds de confiance en sortent renforcés. Le réseau de confiance rend Skywire difficile à attaquer, à manipuler et à exploiter. Il crée un système dans lequel chacun a son mot à dire.
 
 Skywire est plus rapide et plus sécurisé que les alternatives existant. Il est chiffré et privé, ce qui veut dire qu’on ne peut pas vous espionner pendant votre navigation. Il ne peut pas y avoir les lenteurs ou les ruptures de service que l’on peut expérimenter avec les grands fournisseurs. Au lieu de payer 150 dollars par mois pour être espionné par un monopole des télécommunications, les utilisateurs de Skywire ont accès à un service internet qui respecte leur vie privée.
 
 Nous avons besoin de Skywire aujourd’hui plus que jamais. L’échec du FCC à promouvoir la neutralité du Net signifie que les grands fournisseurs d’accès vont continuer à accroître leur emprise jusqu’à contrôler complètement l’expérience utilisateur. Goulots d’étranglement, censure et manipulation pourraient devenir la norme. Les utilisateurs auront de moins en moins de pouvoir pendant que leur données de navigation, leurs vies privées et leur individualité seront vendus et achetés par les grandes entreprises à la recherche de profit.
 
 C’est à nous de reprendre le contrôle. Skywire protégera la neutralité du net au niveau matériel, en prenant le contrôle du réseau aux fournisseurs d’accès et en le mettant dans les mains de la communauté. Ce réseau pair-à-pair prouve que nous n’avons pas à dépendre des grands fournisseurs d’accès. Ensemble, nous pouvons réinventer Internet avec Skywire : un réseau géré par les utilisateurs, libre et ouvert à tous.
+
+[^1] NdT : Federal Communication Commission : Agence américaine chargé des médias. Equivalent du CSA en France mais avec des prérogatives élargies à Internet.
+[^2] Web-of-trust
+
