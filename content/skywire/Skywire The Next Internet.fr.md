@@ -1,5 +1,5 @@
 +++
-title = "Skywire: The Next Internet"
+title = "Skywire: Le futur d'Internet"
 tags = [
     "Skywire",
 ]
@@ -12,60 +12,26 @@ categories = [
 
 ![Skywire logo](/img/skywire-the-next-internet.png)
 
-In spring 2017, the FCC made a proposal in which internet service providers can
-collect, use, and sell information about customer browsing habits. ISPs can do
-this without permission. Customers can’t opt out. Being a customer of one of
-these corporations means that you’re paying to be tracked, plain and simple.
+Au printemps 2017, le FCC [^1] a déposé une proposition de loi selon laquelle les fournisseurs de service internet peuvent collecter, utiliser et vendre les informations concernant les habitudes de navigation de leurs clients. Ils peuvent le faire sans autorisation spécifique. Les clients ne peuvent refuser. Etre client de l’une de ces sociétés signifie que vous payez pour être surveillé, tout simplement.
 
-With customer tracking, unreliable coverage, high rates, long hold times and
-poor customer service, ISPs have become some of the most hated companies in
-America. So why do customers pay these companies bill after bill for the
-privilege of being exploited?
+Surveillance des clients, couverture médiocre, prix élevés, long temps d’attente et service utilisateur déficient, les fournisseurs de service internet font parti des entreprises les plus détestées aux Etats-Unis. Pourquoi alors les clients doivent-ils payer ces entreprises pour avoir le privilège d’être surveillé ?
 
-The answer is sad, but not surprising: users feel trapped. There seems to be no
-other choice. ISPs have monopolistic powers, including the ability to charge
-customers exorbitant prices for poor service. With net neutrality regulations
-under threat going into 2018, the situation will only get worse.
+La réponse est navrante, mais sans surprise : les utilisateurs se sentent piégés. Il ne semble pas y avoir d’autres possibilités. Les fournisseurs de service internet sont en situation de monopole, ce qui leur permet de facturer des prix exorbitants pour un service médiocre. Avec les menaces pesant sur la neutralité du net en 2018, la situation ne peut qu’empirer.
 
-That’s why we built Skywire: the next internet. Skywire takes control from ISPs
-and puts it back into the hands of users where it belongs. With Skywire, there
-are no huge bills and unfair business practices. It’s a self-sufficient
-network, 100% owned and maintained by the user community.
+C’est pourquoi nous avons construit Skywire : le nouvel Internet. Skywire reprend le contrôle aux fournisseurs et le rend aux utilisateurs. Avec Skywire, pas de factures hallucinantes ni d’abus de situation de monopole. C’est un réseau autonome, détenu et maintenu à 100% par la communauté d’utilisateurs.
 
-How does Skywire work? Think of it as a decentralized internet service
-provider. Skywire uses blockchain technology to create a peer-to-peer
-community-driven market for internet service. It’s fast, private, and secure.
-Best of all, it puts the user first.
+Comment ça fonctionne ? Il faut imaginer un fournisseur de service Internet décentralisé. Skywire utilise la Blockchain pour créer un marché communautaire pair à pair de service Internet. C’est rapide, privé et sécurisé. Mais le principal avantage, c’est que l’utilisateur est placé au coeur du système.
 
-With Skywire, you benefit directly from your contributions to the network.
-Users can earn coins for running hardware nodes and providing bandwidth and
-storage. You can then spend your coins by consuming media or other network
-resources. This system makes Skywire self-sustaining and independent: the more
-you use it, the more robust the network becomes. Skywire is an incentivized
-mesh network.
+Avec Skywire, vous bénéficiez directement de votre contribution au réseau. Les utilisateurs gagnent des skycoins pour maintenir des nœuds et fournir de la bande passante ainsi que de l’espace de stockage. On peut dépenser ses skycoins en consommant de l’information ou d’autres ressources du réseau. Ce système rend SkyWire autonome et indépendant : plus on l’utilise, plus le réseau devient robuste. Skywire est un réseau pair à pair rémunéré. 
 
-Skywire is built for users, by users. Unlike networks under corporate ISPs,
-decisions on Skywire are made by the community. Nodes function based on a
-web-of-trust system. Malicious nodes can be cut off by collective agreement,
-and trustworthy nodes strengthened. Web-of-trust consensus makes Skywire immune
-to attacks, exploitation, and manipulation. It creates a system where everyone
-has a say.
+Skywire est conçu pour les utilisateurs, par les utilisateurs. Contrairement aux services des fournisseurs classiques, les décisions sont prises par la communauté. Les nœuds fonctionnent selon un système de réseau de confiance[^2] . Les nœuds malhonnêtes peuvent être retirés par une décision collective, et les nœuds de confiance en sortent renforcés. Le réseau de confiance rend Skywire difficile à attaquer, à manipuler et à exploiter. Il crée un système dans lequel chacun a son mot à dire.
 
-Skywire is faster and more secure than other internet alternatives. It’s
-encrypted and private, which means that you can’t be tracked as you browse. It
-doesn’t suffer from throttling and other service outages that you get with
-large ISPs. Instead of paying $150 per month to be tracked by the telecom
-monopoly, Skywire users get internet service that protects their privacy.
+Skywire est plus rapide et plus sécurisé que les alternatives existant. Il est chiffré et privé, ce qui veut dire qu’on ne peut pas vous espionner pendant votre navigation. Il ne peut pas y avoir les lenteurs ou les ruptures de service que l’on peut expérimenter avec les grands fournisseurs. Au lieu de payer 150 dollars par mois pour être espionné par un monopole des télécommunications, les utilisateurs de Skywire ont accès à un service internet qui respecte leur vie privée.
 
-We need Skywire now more than ever. The FCC’s failure to promote net neutrality
-means that large ISPs will continue to tighten their grip until they achieve a
-stranglehold over internet experience. Fees will rise. Throttling, censorship,
-and manipulation could become the norm. Users will have less power than they’ve
-ever had as their browsing data, privacy, and individuality is bought and sold
-by corporations looking for a profit.
+Nous avons besoin de Skywire aujourd’hui plus que jamais. L’échec du FCC à promouvoir la neutralité du Net signifie que les grands fournisseurs d’accès vont continuer à accroître leur emprise jusqu’à contrôler complètement l’expérience utilisateur. Goulots d’étranglement, censure et manipulation pourraient devenir la norme. Les utilisateurs auront de moins en moins de pouvoir pendant que leur données de navigation, leurs vies privées et leur individualité seront vendus et achetés par les grandes entreprises à la recherche de profit.
 
-It’s up to us to regain control. Skywire will protect net neutrality at the
-hardware level, by taking control of network hardware from the ISPs and putting
-it the hands of the community. Its peer-to-peer network proves that we don’t
-have rely on corporate ISPs. Together, we can reinvent the internet with
-Skywire: a user-powered network that’s free and open to all.
+C’est à nous de reprendre le contrôle. Skywire protégera la neutralité du net au niveau matériel, en prenant le contrôle du réseau aux fournisseurs d’accès et en le mettant dans les mains de la communauté. Ce réseau pair-à-pair prouve que nous n’avons pas à dépendre des grands fournisseurs d’accès. Ensemble, nous pouvons réinventer Internet avec Skywire : un réseau géré par les utilisateurs, libre et ouvert à tous.
+
+[^1] NdT : Federal Communication Commission : Agence américaine chargé des médias. Equivalent du CSA en France mais avec des prérogatives élargies à Internet.
+[^2] Web-of-trust
+
